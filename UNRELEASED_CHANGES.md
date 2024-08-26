@@ -2,6 +2,7 @@
 
 ### 🤖 Dependencies
 
+- *(CI)* Bump orhun/git-cliff-action from 3 to 4 - ([1ae43a0](https://github.com/ni920/JexxaKubernetes/commit/1ae43a0c2282ebc989c9127698c48dfe566d188f))
 - *(java)* Bump org.apache.maven.plugins:maven-jar-plugin - ([277f1c9](https://github.com/ni920/JexxaKubernetes/commit/277f1c9389794d6bb7933d7dbdd0b52349465c49))
 - *(java)* Bump org.apache.maven.plugins:maven-shade-plugin - ([90a48c4](https://github.com/ni920/JexxaKubernetes/commit/90a48c4d9b80219f9b7a7b273dba417a1a1c544b))
 - *(java)* Bump org.apache.maven.plugins:maven-clean-plugin - ([eaadc70](https://github.com/ni920/JexxaKubernetes/commit/eaadc706d8f39c8d26a07b0c2336f20708d263f6))

@@ -7,6 +7,7 @@
 - *(CI)* Bump actions/checkout from 4 to 5 - ([1f53c89](https://github.com/ni920/JexxaKubernetes/commit/1f53c892e2798d7217cc5ae16e572d9cf2bfbe95))
 - *(CI)* Bump actions/setup-java from 4 to 5 - ([2837b5a](https://github.com/ni920/JexxaKubernetes/commit/2837b5a6c4e923924cbe0f84b6c9d3a60ece6f86))
 - *(CI)* Bump stefanzweifel/git-auto-commit-action from 6 to 7 - ([1dc76da](https://github.com/ni920/JexxaKubernetes/commit/1dc76da5a98c88a4384d98f96ee9ac4cf5ddc900))
+- *(CI)* Bump actions/checkout from 5 to 6 - ([23e979e](https://github.com/ni920/JexxaKubernetes/commit/23e979ec85dc7650f007feb224463093b67b6e37))
 - *(java)* Bump org.apache.maven.plugins:maven-jar-plugin - ([277f1c9](https://github.com/ni920/JexxaKubernetes/commit/277f1c9389794d6bb7933d7dbdd0b52349465c49))
 - *(java)* Bump org.apache.maven.plugins:maven-shade-plugin - ([90a48c4](https://github.com/ni920/JexxaKubernetes/commit/90a48c4d9b80219f9b7a7b273dba417a1a1c544b))
 - *(java)* Bump org.apache.maven.plugins:maven-clean-plugin - ([eaadc70](https://github.com/ni920/JexxaKubernetes/commit/eaadc706d8f39c8d26a07b0c2336f20708d263f6))
